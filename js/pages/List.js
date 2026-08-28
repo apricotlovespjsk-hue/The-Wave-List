@@ -107,7 +107,7 @@ export default {
                     </p>
                         The recording must show the player hit the endwall, or the completion will be invalidated.
                     </p>
-                    <p>
+                    <p> We are open source! https://github.com/apricotlovespjsk-hue/The-Wave-List
                         Do not use secret routes or bug routes
                     </p>
                     <p>
