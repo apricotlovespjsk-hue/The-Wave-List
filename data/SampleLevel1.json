@@ -1,18 +1,18 @@
 {
-    "id": "pls submit",
-    "name": "no levels yet",
-    "author": "LevelUploader",
-    "creators": ["apricot"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": "147843839",
+    "name": "Apricot Challenge 2",
+    "author": "apricotgmd",
+    "creators": ["apricotgmd"],
+    "verifier": "apricotgmd",
+    "verification": "https://youtu.be/o5LEIQlaw2c?si=4ImrjtS-wwQvYx7V",
+    "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": 
+            "link": 
+            "percent":
+            "hz":
         }
     ]
 }
