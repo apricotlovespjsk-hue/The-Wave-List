@@ -105,13 +105,6 @@ export default {
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
-                    <p>
-                        
-                    </p>
-                    <p>
-                    
-                    </p>
-                    <p>
                         The recording must show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
